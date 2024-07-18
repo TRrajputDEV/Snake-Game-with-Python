@@ -1,6 +1,6 @@
 Python Snake Game
 This is a simple Snake Game implemented in Python using the Pygame library.
-
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Getting Started
 To run this game on your local machine, follow these steps:
